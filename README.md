@@ -1,3 +1,3 @@
 # authenticationPython
 
-pip install uvicorn[standard] fastapi python-multipart python-jose[cryptography] passlib[bcrypt]
+autenticador para usar em outros projetos, usa python fastAPI e uvicorn
